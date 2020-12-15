@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'mangoretreat'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_81582fb24c6244d7b26bcb938a958615 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_d91f7bcb75a74208a3a1581046515419 }}
         package: .
